@@ -5,9 +5,8 @@
     <classes>
       <class name="codenBoxAuto2.MyTestCases">
         <methods>
-          <include name="alertAndConfirm"/>
           <include name="runTheWebsite"/>
-          <include name="switchWindow"/>
+          <include name="calender"/>
         </methods>
       </class> <!-- codenBoxAuto2.MyTestCases -->
     </classes>
